@@ -16,3 +16,8 @@ Because I wanted to create a speech model based off of Teo, a popular streamer a
 
 ![](fig/Teoirl2.jpg)
 
+Because He's a personality there are allot of clips of him talking but I had to find clips void of any sort of background noise like music or gameplay. While transcribing audio you also find out how much people say things like "uh" or "uhm" or even repeat themselves without you noticing. One of the challanges of this was actually making sure i was transcribing the correctly especially when you have a phrase like [this](https://soundcloud.com/leighton-waters/what). 
+
+I ended up transcribing around 25 min of video and it took allot longer than I had expected as well as being a dry tedious task that I couldnt listen to shows or music while doing to make it any more enjoyable.
+
+Once Transcribing was over and I could finally run the samples through training I ended ep with an attention graph like this.
