@@ -14,5 +14,5 @@ One thing you notice imediately is that without the huge premade dataset it take
 
 Because I wanted to create a speech model based off of Teo, a popular streamer and youtuber, I had to transcribe and sample my own audio.[Teo's Twitch](https://www.twitch.tv/teosgame),[Teo's Youtube](https://www.youtube.com/channel/UCDa8HbNrmkFhKKOeiB7JaRw).
 
-![](fig/Teoirl.jpg)
+![](fig/Teoirl2.jpg)
 
