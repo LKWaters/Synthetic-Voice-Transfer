@@ -16,8 +16,27 @@ Because I wanted to create a speech model based off of Teo, a popular streamer a
 
 ![](fig/Teoirl2.jpg)
 
-Because He's a personality there are allot of clips of him talking but I had to find clips void of any sort of background noise like music or gameplay. While transcribing audio you also find out how much people say things like "uh" or "uhm" or even repeat themselves without you noticing. One of the challanges of this was actually making sure i was transcribing the correctly especially when you have a phrase like [this](https://soundcloud.com/leighton-waters/what). 
+He's a personality so there are allot of clips of him talking but I had to find clips void of any sort of background noise like music or gameplay. While transcribing audio you also find out how much people say things like "uh" or "uhm" or even repeat themselves without you noticing. One of the challanges of this was actually making sure i was transcribing the correctly especially when you have a phrase like [this](https://soundcloud.com/leighton-waters/what). 
 
 I ended up transcribing around 25 min of video and it took allot longer than I had expected as well as being a dry tedious task that I couldnt listen to shows or music while doing to make it any more enjoyable.
 
-Once Transcribing was over and I could finally run the samples through training I ended ep with an attention graph like this.
+Once Transcribing was over and I could finally run the samples through training I ended up with an attention graph like this.
+
+![](fig/alignment_894k.png)
+
+As you can see theres allot of defenition and allot of yellow which means this is pretty good. now could this be better, yes, however as a first attempt this was more than suitable for me.
+
+What youll notice when training is that it will go through stages where it looks good then bad and its your job to observe and pick out the best ones ans then possibly lower or raise the learning rate as you continue through the steps. 
+
+![](fig/attention.gif)
+
+Now becasue this is a daunting project for most I decided to make this more accessible in the form of a Discord bot. Discord is a VoIP application and digital distribution platform designed for video gaming communities. I wrote a quick bot that when given the !make "your string here" command it would apply Teos text to speech model on the string given.
+
+Once the program has started and "Teo Bot" is online I can give it commands like this.
+
+<img src="">
+
+And after 5-10 minutes of creating that audio file Teo Bot will inform you that your audio file is ready and play it in the channel youre in.
+
+<img src="">
+<img src="">
