@@ -12,7 +12,7 @@ Becasue this is based on Kyubyongs model if youre looking for in depth informati
 
 One thing you notice imediately is that without the huge premade dataset it takes a LONG time to create and transcribe your own. the LJ dataset has over 13,000 samples of pre transcribed audio and its a breeze to work with. Now when it comes to making the voice of your choice you either have to be lucky enough to find a premade dataset or creat your own. 
 
-Because I wanted to create a speech model based off of Teo, a popular streamer and youtuber, I had to transcribe and sample my own audio.
+Because I wanted to create a speech model based off of Teo, a popular streamer and youtuber, I had to transcribe and sample my own audio.[Teo's Twitch](https://www.twitch.tv/teosgame),[Teo's Youtube](https://www.youtube.com/channel/UCDa8HbNrmkFhKKOeiB7JaRw).
 
-<img src="fig/teoirl.jpg">
+![](fig/Teoirl.jpg)
 
