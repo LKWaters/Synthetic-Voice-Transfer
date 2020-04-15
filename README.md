@@ -36,5 +36,16 @@ Once the program has started and "Teo Bot" is online I can give it commands like
 
 ![](fig/Screenshot2.png) 
 
-And after 5-10 minutes of creating that audio file Teo Bot will inform you that your audio file is ready and play it in the channel youre in.
+And after 5-10 minutes of creating that audio file Teo Bot will inform you that your audio file is ready and on request it will play it in the channel youre in.
 
+![](fig/Screenshot3.png) 
+
+![](fig/Screenshot4.png) 
+
+![](fig/Screenshot5.png) 
+
+To get this to work I had to use multiprocessing to allow the bot to run at the same time as synthesize.py because I was using tensorflow gpu 1.4.0 It other wise would have made the bot go offline or run the synthesize after the Teo Bot python program ended.
+
+## end results
+
+The quality at the end of this is actually pretty good I belive. Its not a flawless recreation but knowing that this was made via neural network the outcome was good.
