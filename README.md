@@ -34,9 +34,10 @@ Now becasue this is a daunting project for most I decided to make this more acce
 
 Once the program has started and "Teo Bot" is online I can give it commands like this.
 
-<img src="">
+![](fig/Screenshot(2).png)
 
 And after 5-10 minutes of creating that audio file Teo Bot will inform you that your audio file is ready and play it in the channel youre in.
 
-<img src="">
-<img src="">
+![](fig/Screenshot(3).png)
+![](fig/Screenshot(4).png)
+![](fig/Screenshot(5).png)
