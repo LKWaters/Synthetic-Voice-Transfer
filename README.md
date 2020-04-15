@@ -14,5 +14,5 @@ One thing you notice imediately is that without the huge premade dataset it take
 
 Because I wanted to create a speech model based off of Teo, a popular streamer and youtuber, I had to transcribe and sample my own audio.
 
-<img src="fig/training_curves.png">
+<img src="fig/teoirl.jpg">
 
