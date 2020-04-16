@@ -44,7 +44,7 @@ And after 5-10 minutes of creating that audio file Teo Bot will inform you that 
 
 ![](fig/Screenshot5.png) 
 
-To get this to work I had to use multiprocessing to allow the bot to run at the same time as synthesize.py because I was using tensorflow gpu 1.4.0 It other wise would have made the bot go offline or run the synthesize after the Teo Bot python program ended.
+To get this to work I had to use multiprocessing to allow the bot to run at the same time as synthesize.py because I was using tensorflow gpu 1.4.0 It other wise would have made the bot go offline or run the synthesize class after the Teo Bot python program ended.
 
 ## end results
 
