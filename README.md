@@ -51,4 +51,5 @@ To get this to work I had to use multiprocessing to allow the bot to run at the 
 The quality at the end of this is actually pretty good I belive. Its not a flawless recreation but knowing that this was made via neural network the outcome was good.
 
 [Original](https://soundcloud.com/leighton-waters/teo-original).
-[Synthetic]().
+
+[Synthetic](https://soundcloud.com/leighton-waters/teo-synthetic).
