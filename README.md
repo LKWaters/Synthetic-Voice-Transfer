@@ -1,6 +1,6 @@
 # A Deep Convolutional Network Transfer Based on the LJ Speech Dataset and Kyubyoung's Text to Speech Model
 
-The goal of this was to take a speech data set with thousands of samples such as the LJ speech dataset and then once trained significantly on that model begin training with a dataset that consisted of significantly less samples.
+The goal of this was to take a speech dataset with thousands of samples such as the LJ speech dataset and then once trained significantly on that model begin training with a dataset that consisted of significantly less samples.
 
 [LJ Speech Dataset](https://www.dropbox.com/s/1oyipstjxh2n5wo/LJ_logdir.tar?dl=0).
 
