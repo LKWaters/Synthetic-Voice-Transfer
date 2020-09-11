@@ -26,7 +26,7 @@ Once Transcribing was over and I could finally run the samples through training 
 
 As you can see theres allot of defenition and allot of yellow which means this is pretty good. now could this be better, yes, however as a first attempt this was more than suitable for me.
 
-What youll notice when training is that it will go through stages where it looks good then bad and its your job to observe and pick out the best ones ans then possibly lower or raise the learning rate as you continue through the steps. 
+What youll notice when training is that it will go through stages where it looks good then bad and its your job to observe and pick out the best ones and then possibly lower or raise the learning rate as you continue through the steps. 
 
 ![](fig/attention.gif)
 
