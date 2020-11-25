@@ -8,7 +8,7 @@ import multiprocessing
 
 if __name__ == '__main__':
 
-    TOKEN = 'Njk2Njg2MzM3NTA3NTkwMjQ0.XosV5w.neY-Sgpo8UAHiAzaS6e0b-nIRuY'
+    TOKEN = # Stream Key Goes Here
     client = commands.Bot(command_prefix='!')
 
     @client.event
